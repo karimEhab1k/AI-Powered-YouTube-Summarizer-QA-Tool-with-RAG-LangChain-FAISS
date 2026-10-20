@@ -1,5 +1,4 @@
 ﻿# AI-Powered-YouTube-Summarizer-QA-Tool-with-RAG-LangChain-FAISS
-# YouTube Video QA and Summarization Tool
 
 This project builds a tool that lets you ask questions about a YouTube video and get answers drawn from its transcript, instead of watching the whole thing.
 
